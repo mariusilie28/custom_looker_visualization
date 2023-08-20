@@ -1,0 +1,11 @@
+{
+    "name": "looker-custom-visualization",
+    "version": "1.0.0",
+    "description": "Custom Looker Visualization using Google Charts",
+    "scripts": {
+      "start": "http-server -c-1"
+    },
+    "dependencies": {
+      "http-server": "^0.12.3"
+    }
+  }
